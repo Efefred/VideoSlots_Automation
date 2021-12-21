@@ -1,0 +1,46 @@
+{
+  "uid" : "4867b38e6b088417",
+  "name" : "TestCase4",
+  "fullName" : "Musala Test.TestCase4",
+  "historyId" : "6c2b7f865a8dc47cc2e345d562337c7d",
+  "time" : {
+    "start" : 1639151923716,
+    "stop" : 1639152008670,
+    "duration" : 84954
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Musala Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Musala Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestCase4"
+  }, {
+    "name" : "package",
+    "value" : "Musala Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4867b38e6b088417.json",
+  "parameterValues" : [ ]
+}

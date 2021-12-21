@@ -1,0 +1,13 @@
+{
+    
+
+    "chromeWebSecurity": true, 
+    
+    "baseUrl": "https://www.evernote.com/Login.action",
+
+    "pageLoadTimeout": 200000,
+
+    "testFiles": "**/*.feature"
+
+
+}

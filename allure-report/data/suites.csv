@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Dec 10 16:53:09 WAT 2021","Fri Dec 10 16:55:16 WAT 2021","127716","","Musala Test","","Musala Test","TestCase1","TestCase1",""
+"passed","Fri Dec 10 16:56:13 WAT 2021","Fri Dec 10 16:56:46 WAT 2021","32410","","Musala Test","","Musala Test","TestCase2","TestCase2",""
+"passed","Fri Dec 10 16:57:04 WAT 2021","Fri Dec 10 16:58:15 WAT 2021","70736","","Musala Test","","Musala Test","TestCase3","TestCase3",""
+"passed","Fri Dec 10 16:58:43 WAT 2021","Fri Dec 10 17:00:08 WAT 2021","84954","","Musala Test","","Musala Test","TestCase4","TestCase4",""

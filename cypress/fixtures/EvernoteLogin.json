@@ -1,0 +1,15 @@
+
+    {
+        "username(invalid)": "speakinginrhymes@gmail.",
+        "password(invalid)": "!YAF_",
+        "username(valid)": "speakinginrhymes@gmail.com",
+        "password(valid)": "!YAF_7RPZCm7gt5",
+        "expected_error(invalid_email)": "There is no account for the username or email you entered.",   
+        "expected_error(Invalid_password)": "Incorrect password.",
+        "success_login(valid username & password)": "Create new note",
+        "note_title": "VideoSlots",
+        "note_body": "This is a test automation framework for VideoSlots"
+    
+    }
+
+
