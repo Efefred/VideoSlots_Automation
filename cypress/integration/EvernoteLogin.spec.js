@@ -5,19 +5,17 @@ Cypress.on('uncaught:exception', (err, runnable) => {
     return false;
   })
 
-import testData from '../fixtures/TC1.json'
+import testData from '../fixtures/EvernoteLogin.json'
 
 describe('Login Test', () => {
 
     it('Invalid Email Address', () => {
         
-        testData.forEach(item=>{
-        
+        //testData.forEach(item=>{
          //Visit website
         cy.visit('/');
 
         //Get Form Fields
-        cy.get('#cf-1').type(item.Name);
         cy.get('#cf-2').type(item.Email);
         cy.get('#cf-3').type(item.Mobile);
         cy.get('#cf-4').type(item.Subject);
